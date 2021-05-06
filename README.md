@@ -1,6 +1,6 @@
 # National Park Explorer
 
-To run the example code just download and run npm start in the server and client
+To run the application just download and run npm start in the server and client
 - cd server
   - npm start
 - cd ../client
