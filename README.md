@@ -1,4 +1,4 @@
-# CIS550_national_parks
+# National Park Explorer
 
 To run the example code:
 - git clone <main branch>
