@@ -2,16 +2,8 @@
 
 To run the example code:
 - git clone <main branch>
-- cd client
-  - npm install
-- cd ../server
-  - npm install
-- start server: 
-  - from server directory: npm run devStart
-- start client: 
-  - Open new terminal and navigate to client directory 
-  - run: npm start  
-- Result: should see homepage with 3 random parks everytime page is refreshed
-
-
-Kevin's Test Push
+- cd server
+  - npm start
+- cd ../client
+  - npm start
+- Result: takes you to browser where national park explorer homepage opens
